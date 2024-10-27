@@ -21,13 +21,13 @@ export default function About() {
                     </div>
                     <div className="col-lg-6 ps-lg-5">
                         <div className="section_heading mb_20">
-                        <span className="section_heading_title_small">About STAY.</span>
-                        <h2 className="section_heading_title_middle" style={{lineHeight:1.2, fontSize:"30px"}}>영흥도<br /> 숲속 펜션 STAY</h2>
+                        <span className="section_heading_title_small">About PART1.</span>
+                        <h2 className="section_heading_title_middle" style={{lineHeight:1.2, fontSize:"30px"}}>영흥도<br /> 숲속 펜션 PART1</h2>
                         </div>
                         <p className="aboout-1-desc mb_30">인천광역시 옹진군 영흥면 영흥남로 321길 41,</p>
                         <ul className="list-1 mb_30">
-                        <li><i className="icon-20"></i>Powerful Admin Panel</li>
-                        <li><i className="icon-20"></i>Multi-Language Support</li>
+                        <li><i className="icon-20"></i>숲속 펜션 파트원</li>
+                        <li><i className="icon-20"></i>수영장/숯불 바베큐</li>
                         </ul>
                         <div className="about-1-btn mb_30">
                         <Link href="/rooms" className="btn-1">+ 방 보기<span></span></Link>

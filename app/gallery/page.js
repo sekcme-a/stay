@@ -9,10 +9,10 @@ import Link from "next/link"
 
 export const metadata = {
     title: "갤러리",
-    description: "영흥도 STAY 펜션의 사진들입니다. STAY 펜션의 풍경, 실내, 이벤트 사진들입니다.",
+    description: "영흥도 PART1 펜션의 사진들입니다. PART1 펜션의 풍경, 실내, 이벤트 사진들입니다.",
     openGraph: {
       title:"갤러리",
-      description: "영흥도 STAY 펜션의 사진들입니다. STAY 펜션의 풍경, 실내, 이벤트 사진들입니다.",
+      description: "영흥도 PART1 펜션의 사진들입니다. PART1 펜션의 풍경, 실내, 이벤트 사진들입니다.",
       url:"/gallery"
     }
   }

@@ -17,9 +17,9 @@ export default function Menu() {
                 <li className="dropdown"><Link href="#">Rooms</Link>
                     <ul>
                         <li><Link href="/rooms">전체보기</Link></li>
-                        <li><Link href="/room-detail/a">STAY A</Link></li>
-                        <li><Link href="/room-detail/b">STAY B</Link></li>
-                        <li><Link href="/room-detail/c">STAY C</Link></li>
+                        <li><Link href="/room-detail/a">PART1 A</Link></li>
+                        <li><Link href="/room-detail/b">PART1 B</Link></li>
+                        <li><Link href="/room-detail/c">PART1 C</Link></li>
                     </ul>
                 </li>
                 <li><Link href="/menu">Menu</Link></li>

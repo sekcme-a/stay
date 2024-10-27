@@ -40,10 +40,10 @@ const LIST = [
 
 export const metadata = {
   title: "이벤트",
-  description: "펜션의 이벤트들을 소개합니다. 저희 STAY 펜션에는 여러가지 이벤트 및 할인 혜택이 있습니다.",
+  description: "펜션의 이벤트들을 소개합니다. 저희 PART1 펜션에는 여러가지 이벤트 및 할인 혜택이 있습니다.",
   openGraph: {
     title:"이벤트",
-    description: "펜션의 이벤트들을 소개합니다. 저희 STAY 펜션에는 여러가지 이벤트 및 할인 혜택이 있습니다.",
+    description: "펜션의 이벤트들을 소개합니다. 저희 PART1 펜션에는 여러가지 이벤트 및 할인 혜택이 있습니다.",
     url:"/events"
   }
 }

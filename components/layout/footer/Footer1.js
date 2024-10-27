@@ -10,7 +10,7 @@ export default function Footer1() {
           <div className="row">
             <div className="col-lg-3 col-md-6">
               <div className="contact-widget-1 mb_30">
-                <div className="footer-widget-title"><h4>STAY</h4></div>
+                <div className="footer-widget-title"><h4>PART1</h4></div>
                 <ul className="contact-widget-1-list">
                   <li><span>주소:</span>인천광역시 옹진군 영흥면 영흥남로 321길 41</li>
                   {/* <li><span>Email:</span><Link href="mailto:example@royalking.com">example@royalking.com</Link></li> */}

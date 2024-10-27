@@ -24,9 +24,9 @@ export default function Amenities() {
                 <div className="auto-container">
                   <div className="team-1-wrapper">
                     <div className="section_heading text-center mb_50">
-                      <span className="section_heading_title_small">STAY</span>
+                      <span className="section_heading_title_small">PART1</span>
                       <h2 className="section_heading_title_big mb_20">펜션 시설</h2>
-                      <p>펜션 STAY의 펜션 시설입니다.</p>
+                      <p>펜션 PART1의 펜션 시설입니다.</p>
                     </div>
                     <div className="row">
                       {

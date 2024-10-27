@@ -13,7 +13,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, isSide
                         <div className="logo-box">
                             <div className="logo" style={{ width: '240px' }}>
                             <Link href="/">
-                                <img src="/assets/images/logo.png" alt="스테이 펜션 로고" />
+                                <img src="/assets/images/logo.png" alt="파트원 펜션 로고" />
                             </Link>
                             </div>
                         </div>

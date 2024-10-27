@@ -4,9 +4,9 @@ import Link from "next/link"
 
 const LIST_MENU = [
     {
-        title:"모둠 꼬치",
-        price:"18,000",
-        text:"양, 닭다리살, 닭목살, 파닭, 새우, 시샤모(열빙어), 돼지껍데기, 염통, 베이컨팽이, 마늘 꼬치가 포함된 모둠 꼬치입니다."
+        title:"삼겹살, 꼬치, 주류 무한리필",
+        price:"30,000",
+        text:"삼겹살, 소주, 맥주, 닭꼬치 무한리필. "
     },
     {
         title:"소고기 편백찜",
@@ -15,7 +15,7 @@ const LIST_MENU = [
     },
     {
         title:"가마솥 한우 설렁탕 (조식)",
-        price:"8,000",
+        price:"10,000",
         text:"가마솥에 한우사골을 넣고 고아서 만든 설렁탕. 조식 메뉴로 9시~12시까지 제공되며, 각종 밑반찬과 함께 제공됩니다."
     }
 ]
@@ -25,7 +25,7 @@ const LIST_ALCOHOL = [
         title:"발렌타인 30년산",
         price:"Shot 35,000",
         text:`발렌타인 30년은 프리미엄 스카치 위스키 중 단연 최고의 제품입니다.
-        한정된 수량으로 인해 오로지 소수만 즐길 수 있는 최고의 명품 위스키를 STAY에서 만나보세요.`
+        한정된 수량으로 인해 오로지 소수만 즐길 수 있는 최고의 명품 위스키를 PART1에서 만나보세요.`
     },
     {
         title:"조니워커 블랙라벨 12년산",
@@ -38,10 +38,10 @@ const LIST_ALCOHOL = [
 
 export const metadata = {
     title: "메뉴",
-    description: "영흥도 STAY 펜션의 메뉴들을 소개합니다. STAY에는 여러가지 메뉴들이 있습니다.",
+    description: "영흥도 PART1 펜션의 메뉴들을 소개합니다. PART1에는 여러가지 메뉴들이 있습니다.",
     openGraph: {
       title:"메뉴",
-      description: "영흥도 STAY 펜션의 메뉴들을 소개합니다. STAY에는 여러가지 메뉴들이 있습니다.",
+      description: "영흥도 PART1 펜션의 메뉴들을 소개합니다. PART1에는 여러가지 메뉴들이 있습니다.",
       url:"/menu"
     }
   }
@@ -57,7 +57,7 @@ export default function Home() {
                     <div className="auto-container">
                         <div className="section_heading text-center">
                         <span className="section_heading_title_small">Room Services</span>
-                        <h2 className="section_heading_title_big mb_60">Menu Of Stay</h2>
+                        <h2 className="section_heading_title_big mb_60">Menu Of PART_1</h2>
                         </div>
                         <div className="row">
                             {

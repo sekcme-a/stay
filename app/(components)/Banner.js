@@ -39,11 +39,11 @@ export default function Banner() {
       <div className="content-outer">
         <div className="content-box justify-content-center text-center">
           <div className="inner">
-            <h4>머무르다</h4>
+            <h4>파트원</h4>
             <h1>
-              STAY<br />
+              PART_1<br />
             </h1>
-            <div className="text">섬마을 영흥도 숲속 펜션 스테이에서 추억을 만드세요.</div>
+            <div className="text">섬마을 영흥도 숲속 펜션 파트원에서 추억을 만드세요.</div>
             <div className="link-box">
               <Link href="/room-1" className="btn-1">방 확인하기<span></span></Link>
             </div>
@@ -58,8 +58,8 @@ export default function Banner() {
         <div className="content-box justify-content-center text-center">
           <div className="inner">
             <h4>다양한 컨텐츠</h4>
-            <h1>STAY</h1>
-            <div className="text">STAY X 동춘서커스 X INWOOD Cafe<br/>동춘 서커스 50% 할인 티켓 & 인우드 카페 할인 쿠폰</div>
+            <h1>PART_1</h1>
+            <div className="text">파트원 X 동춘서커스 X INWOOD Cafe<br/>동춘 서커스 50% 할인 티켓 & 인우드 카페 할인 쿠폰</div>
             <div className="link-box">
               <Link href="/room-1" className="btn-1">혜택 확인하기<span></span></Link>
             </div>

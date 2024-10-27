@@ -13,10 +13,10 @@ const ROOM_IMAGE_LIST = [
 
 
 export const metadata = {
-  title: "STAY B타입",
+  title: "PART1 B타입",
   description: "1층에 위치해 있어 보다 편리하며, 바베큐 이용에 좀 더 용의합니다. 방앞에 방 전용 실외 바베큐장이 있습니다.",
   openGraph: {
-    title:"STAY B타입",
+    title:"PART1 B타입",
     description: "1층에 위치해 있어 보다 편리하며, 바베큐 이용에 좀 더 용의합니다. 방앞에 방 전용 실외 바베큐장이 있습니다.",
     url:"/room-detail/b"
   }
@@ -27,7 +27,7 @@ export default function Home() {
 
     return (
         <>
-            <Layout headerStyle={2} footerStyle={1} breadcrumbTitle="STAY B">
+            <Layout headerStyle={2} footerStyle={1} breadcrumbTitle="PART1 B">
                 <div>
                   <section className="section-padding">
                   <div className="auto-container">
@@ -35,7 +35,7 @@ export default function Home() {
                       <div className="col-lg-8 pe-lg-35">
                         <div className="single-post">
                           <span className="section_heading_title_small">80,000~110,000₩</span>
-                          <h2 className="mb_40">STAY B</h2>
+                          <h2 className="mb_40">PART1 B</h2>
                           <p className="mb_20" style={{whiteSpace:"pre-line"}}>
                             {`2인/최대 4인 권장
                             1층에 위치해 있어 보다 편리하며, 바베큐 이용에 좀 더 용의합니다. 방앞에 방 전용 실외 바베큐장이 있습니다.`}
@@ -108,7 +108,7 @@ export default function Home() {
 
                           <h3 className="fs_40 mb_30">Hotel Rules</h3>
                           <p className="mb_30">
-                            펜션 STAY 이용에 대해 알려드립니다.
+                            펜션 PART1 이용에 대해 알려드립니다.
                           </p>
                           <ul className="list-2 mb_70">
                             <li>

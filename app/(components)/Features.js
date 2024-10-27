@@ -9,8 +9,8 @@ export default function Features() {
                 <div className="p_absolute l_0 b_0 r_0 t_0" style={{ background: "url(assets/images/shape/pattern-2.png) no-repeat left bottom" }}></div>
                 <div className="auto-container">
                     <div className="section_heading text-center mb_60">
-                    <span className="section_heading_title_small">STAY X 동춘서커스 X INWOOD Cafe</span>
-                    <h2 className="section_heading_title_big">STAY 펜션 예약 혜택</h2>
+                    <span className="section_heading_title_small">PART1 X 동춘서커스 X INWOOD Cafe</span>
+                    <h2 className="section_heading_title_big">PART1 펜션 예약 혜택</h2>
                     </div>
                     <div className="row">
                     <div className="col-lg-4 col-md-6">
@@ -42,11 +42,11 @@ export default function Features() {
                     <div className="col-lg-4 col-md-6">
 
                         <div className="feature-2-block wow fadeInLeft" data-wow-delay=".2s" data-wow-duration=".8s">
-                        <div className="feature-2-image hvr-img-zoom-1"><img src="assets/images/custom/features_stay.png" alt="스테이 펜션 로고" /></div>
+                        <div className="feature-2-image hvr-img-zoom-1"><img src="assets/images/custom/features_stay.png" alt="파트원 펜션 로고" /></div>
                         <div className="feature-2-lower-content">
                             {/* <div className="feature-2-offer w_80 h_80 theme-bg p_absolute r_40 t_0 fs_18 text-center text-light pt_20 b_radius_50 lh_20"><span className="fs_22 fw_medium">15%</span><br /> OFF</div> */}
                             <h4 className="feature-2-title mb_20">저녁 / 조식(점심)<br /> Menu</h4>
-                            <p className="feature-2-text">모둠 꼬치, 편백찜 등 저녁 메뉴<br />{`조식(아침~점심)`}<br />가마솥으 로 끓인 한우곰탕</p>
+                            <p className="feature-2-text">삼겹살, 주류 무한리필, 모둠꼬치 (저녁)<br />{`조식(아침~점심)`}<br />가마솥으로 끓인 한우곰탕</p>
                         </div>
                         </div>
                     </div>

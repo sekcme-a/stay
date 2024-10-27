@@ -13,11 +13,11 @@ const ROOM_IMAGE_LIST = [
 ]
 
 export const metadata = {
-  title: "STAY A타입",
-  description: "STAY의 가장 기본적인 방으로, 베란다에 바베큐그릴이 비치되어 있습니다. 야외 바베큐장도 사용 가능합니다.",
+  title: "PART1 A타입",
+  description: "PART1의 가장 기본적인 방으로, 베란다에 바베큐그릴이 비치되어 있습니다. 야외 바베큐장도 사용 가능합니다.",
   openGraph: {
-    title:"STAY A타입",
-    description: "STAY의 가장 기본적인 방으로, 베란다에 바베큐그릴이 비치되어 있습니다. 야외 바베큐장도 사용 가능합니다.",
+    title:"PART1 A타입",
+    description: "PART1의 가장 기본적인 방으로, 베란다에 바베큐그릴이 비치되어 있습니다. 야외 바베큐장도 사용 가능합니다.",
     url:"/room-detail/a"
   }
 }
@@ -27,7 +27,7 @@ export default function Home() {
 
     return (
         <>
-            <Layout headerStyle={2} footerStyle={1} breadcrumbTitle="STAY A">
+            <Layout headerStyle={2} footerStyle={1} breadcrumbTitle="PART1 A">
                 <div>
                   <section className="section-padding">
                   <div className="auto-container">
@@ -35,10 +35,10 @@ export default function Home() {
                       <div className="col-lg-8 pe-lg-35">
                         <div className="single-post">
                           <span className="section_heading_title_small">70,000~100,000₩</span>
-                          <h2 className="mb_40">STAY A</h2>
+                          <h2 className="mb_40">PART1 A</h2>
                           <p className="mb_20" style={{whiteSpace:"pre-line"}}>
                             {`2인/최대 4인 권장
-                            STAY의 가장 기본적인 방으로, 베란다에 바베큐그릴이 비치되어 있습니다. 야외 바베큐장도 사용 가능합니다.`}
+                            PART1의 가장 기본적인 방으로, 베란다에 바베큐그릴이 비치되어 있습니다. 야외 바베큐장도 사용 가능합니다.`}
                           </p>
                           <SwiperRoom list={ROOM_IMAGE_LIST}/>
                           <h3 className="fs_40 mb_30">Events</h3>
@@ -108,7 +108,7 @@ export default function Home() {
 
                           <h3 className="fs_40 mb_30">Hotel Rules</h3>
                           <p className="mb_30">
-                            펜션 STAY 이용에 대해 알려드립니다.
+                            펜션 PART1 이용에 대해 알려드립니다.
                           </p>
                           <ul className="list-2 mb_70">
                             <li>
