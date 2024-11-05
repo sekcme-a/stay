@@ -15,7 +15,7 @@ export default function Home() {
     const roomData = [
       {
         imageSrc: "/assets/images/custom/rooms/room_stay_a.png",
-        startingPrice: "70,000₩",
+        startingPrice: "100,000₩",
         title: "PART1 A",
         description: "PART1의 가장 기본적인 방으로, 베란다에 바베큐그릴이 비치되어 있습니다. 야외 바베큐장도 사용 가능합니다.",
         detailsLink: "/room-detail/a",
@@ -31,10 +31,10 @@ export default function Home() {
       },
       {
         imageSrc: "/assets/images/custom/rooms/room_stay_c.jpeg",
-        startingPrice: "170,000₩",
+        startingPrice: "130,000₩",
         title: "PART1 C",
         description: "1층에 위치해 있어 보다 편리하며, 바베큐 이용에 좀 더 용의합니다. 방이 2개 제공되며, 방앞에 8명 이상 수용가능한 전용 실외 바베큐장이 있습니다.",
-        detailsLink: "/room-detail/C",
+        detailsLink: "/room-detail/c",
         animationDuration: ".8s",
       },
     ];

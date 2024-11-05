@@ -31,7 +31,7 @@ export default function Home() {
                     <div className="row">
                       <div className="col-lg-8 pe-lg-35">
                         <div className="single-post">
-                          <span className="section_heading_title_small">170,000~220,000₩₩</span>
+                          <span className="section_heading_title_small">150,000~170,000₩₩</span>
                           <h2 className="mb_40">PART1 C</h2>
                           <p className="mb_20" style={{whiteSpace:"pre-line"}}>
                             {`4인/최대 8인 권장
@@ -118,7 +118,7 @@ export default function Home() {
                               <i className="icon-23"></i>실외 바베큐 오후 11시 마감
                             </li>
                             <li>
-                              <i className="icon-23"></i>{`추가 인원 1인당 추가금 1만원 (현장결제)`}
+                              <i className="icon-23"></i>{`추가 인원 1인당 추가금 2만원 (현장결제)`}
                             </li>
                             <li>
                               <i className="icon-23"></i>실내 흡연금지
@@ -176,7 +176,7 @@ export default function Home() {
                         <div className="form-group">
                           <p className="hotel-booking-form-1-label">{`비성수기 평일: `}</p>
                           <input
-                            placeholder="170,000₩"
+                            placeholder="150,000₩"
                             className=""
                             type="text"
                             name="form-name"
@@ -187,7 +187,7 @@ export default function Home() {
                         <div className="form-group">
                           <p className="hotel-booking-form-1-label">{`비성수기 주말: `}</p>
                           <input
-                            placeholder="200,000₩"
+                            placeholder="170,000₩"
                             className=""
                             type="text"
                             name="form-name"
@@ -198,7 +198,7 @@ export default function Home() {
                         <div className="form-group">
                           <p className="hotel-booking-form-1-label">{`성수기 평일: `}</p>
                           <input
-                            placeholder="170,000₩"
+                            placeholder="150,000₩"
                             className=""
                             type="text"
                             name="form-name"
@@ -209,7 +209,7 @@ export default function Home() {
                         <div className="form-group">
                           <p className="hotel-booking-form-1-label">{`성수기 주말: `}</p>
                           <input
-                            placeholder="220,000₩₩"
+                            placeholder="170,000₩"
                             className=""
                             type="text"
                             name="form-name"

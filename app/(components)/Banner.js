@@ -45,7 +45,7 @@ export default function Banner() {
             </h1>
             <div className="text">섬마을 영흥도 숲속 펜션 파트원에서 추억을 만드세요.</div>
             <div className="link-box">
-              <Link href="/room-1" className="btn-1">방 확인하기<span></span></Link>
+              <Link href="/rooms" className="btn-1">방 확인하기<span></span></Link>
             </div>
           </div>
         </div>
@@ -61,7 +61,7 @@ export default function Banner() {
             <h1>PART_1</h1>
             <div className="text">파트원 X 동춘서커스 X INWOOD Cafe<br/>동춘 서커스 50% 할인 티켓 & 인우드 카페 할인 쿠폰</div>
             <div className="link-box">
-              <Link href="/room-1" className="btn-1">혜택 확인하기<span></span></Link>
+              <Link href="/events" className="btn-1">혜택 확인하기<span></span></Link>
             </div>
           </div>
         </div>
